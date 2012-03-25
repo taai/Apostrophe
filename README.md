@@ -2,7 +2,7 @@
 
 Tas strādā tāpat, kā tad, kad ieinstalēts daudziem zināmais "Tildes birojs" - ar *apostrofa* taustiņu ('). Piemēram, nospiežot ```'``` un burtu ```a```, tiek ierakstīts burts ```ā``` un tā tālāk...
 
-Izmantojiet šo spraudni, piemēram, lai lietotājiem sniegt iespēju rakstīt latviski pat atrodoties ārzemēs!
+Izmantojiet šo spraudni, piemēram, lai lietotājiem sniegtu iespēju rakstīt latviski pat atrodoties ārzemēs!
 
 Lai aktivizētu spraudni konkrētam ievades laukam:
 ```javascript
