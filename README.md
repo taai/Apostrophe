@@ -4,12 +4,16 @@ Tas strādā tāpat, kā tad, kad ieinstalēts daudziem zināmais "Tildes birojs
 
 Izmantojiet šo spraudni, piemēram, lai lietotājiem sniegtu iespēju rakstīt latviski pat atrodoties ārzemēs!
 
+## Kā izmantot
+
 Lai aktivizētu spraudni konkrētam ievades laukam:
-```javascript
+
+```js
 $('#elementa_id').apostrophe();
 ```
 
 Lai aktivizētu spraudni visiem lapā esošajiem ievades laukiem:
-```javascript
+
+```js
 $('textarea, input[type=text]').apostrophe();
 ```
